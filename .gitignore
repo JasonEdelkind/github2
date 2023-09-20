@@ -1,11 +1,19 @@
 # History files
 .Rhistory
 .Rapp.history
-
+.Rproj.user/scripts/
+.Rproj.user/images
+.Rproj.user/data
+github2.Rproj
+images/
+data/
+*.png
 # Session Data files
 .RData
 .RDataTmp
-
+github2.html
+github2.Rmd
+script.R
 # User-specific files
 .Ruserdata
 
@@ -24,6 +32,7 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+vignettes/*.png
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
